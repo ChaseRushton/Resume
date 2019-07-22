@@ -1,0 +1,71 @@
+Chase Rushton
+http://github.com/aubcar
+https://www.linkedin.com/in/chase-rushton-83abb8163/
+chaserushton@gmail.com 
+404.580.5264
+
+Overview:
+A highly motivated bioinformatics specialist with a passion for technology, and a strong background in the life sciences. I started my career with a degree in Microbiology, and recently graduated with a Master's degree in Bioinformatics.
+
+
+Technical Skills
+Programming: Python, Linux/Unix,R, Git, HPC
+Informatics: WGS,WES, Targeted amplicon panels ,SNP Chip assays, Gene expression, Population genetics, Pipeline Development, Data visualization.
+Molecular Biology: PCR, qPCR, Sequencing, Biological assay development, Tissue and Cell culture, Experimental design and execution, Molecular cloning strategies, Recombinant DNA, Protein amplification ,Protein purification, Microbial identification, SNP genotyping, Primer design, Sequenom platform
+
+Education
+Degree Major    Institution           Graduation Year
+M.S. in Biology (Bioinformatics), Auburn University, Auburn, AL, 2018 
+B.S. in Molecular and Cellular Microbiology, Auburn University, Auburn, AL, 2015 
+
+RELEVANT EXPERIENCE
+
+PENN MEDICINE, UNIVERSITY OF PENNSYLVANIA HEALTH SYSTEM             2019 – PRESENT
+Bioinformatics specialist: Center for personalized diagnosis
+
+
+AUBURN UNIVERSITY, AUBURN, AL          2012 – 2018
+
+Research Assistant:
+Undergraduate (2012-2015) – Worked in laboratory of  Ramesh Jeganathan, Ph.D. Director of Diabetes and Alzheimer Research Laboratory, Auburn University, Auburn, AL 36849.
+•             Work was focused on: Insulin signaling in animal models of obesity and type 2 diabetes, Molecular mechanisms responsible for insulin resistance in type 2 diabetes, Linking Alzheimer’s disease and type 2 diabetes.
+
+Graduate (2016-2018) – Worked in laboratory of  Laurie Stevison Ph.D on Speciation genetics & Recombination rate plasticity. 
+•             Thesis Work-  Whole genome analysis of multiple primate genomes from raw reads to assembled genomes. Characterization of Structural variation/SNPS at an individual and population level. 
+
+•             Side project- Use of the Sequenom iPLEX ADME PGx Panel on MassARRAY System  to genotype polymorphisms in D. pseudoobsuura to identify regions of recombination rate plasticity between two experimental temperatures. Led to the publication Stevison LS, S Sefick, C Rushton, and RM Graze. 2017. Invited Review: Recombination rate plasticity: revealing mechanisms by design. Philosophical Transactions B. Themed Issue: "Evolutionary causes and consequences of recombination rate variation in sexual organisms".
+
+
+Graduate Teaching Assistant (2016-2018) 
+             Recombinant DNA and gene expression  
+             Genomic Biology 
+             Microbiology 
+             Ecology
+
+Bioinformatics Boot camp (Summer 2017) 
+•             Auburn University Auburn Alabama
+
+Tutor (2013-2018)
+•             Biology
+•             Microbiology
+•             Clinical Microbiology
+•             Intro to Bioinformatics 
+
+
+PUBLICATIONS & PRESENTATIONS
+Stevison LS, S Sefick, C Rushton, and RM Graze. 2017. 
+Invited Review, Recombination rate plasticity: revealing mechanisms by design. Philosophical Transactions B. Themed Issue: "Evolutionary causes and consequences of recombination rate variation in sexual organisms" 
+In work- Target BMC genomic,  
+"Broad characterization of structural Variation and genetic differentiation in two hybridizing species of macaques"  
+
+
+
+Speaker, Boshel 2013,2014 
+Speaker: Poster, SEEPEG , 2017
+Speaker, Auburn university research week, 2017,2018
+Speaker,  Association for Molecular Pathology 2019 
+
+STUDENTS MENTORED (2016-2018)
+•             3 Research experience for undergrads (REU) 
+•             4 undergraduates in the lab 
+
