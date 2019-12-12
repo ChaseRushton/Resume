@@ -8,9 +8,9 @@ A highly motivated bioinformatics specialist with a passion for technology, and 
 
 
 Technical Skills
-Programming: Python, Linux/Unix,R, Git, HPC
-Informatics: WGS,WES, Targeted amplicon panels ,SNP Chip assays, Gene expression, Population genetics, Pipeline Development, Data visualization.
-Molecular Biology: PCR, qPCR, Sequencing, Biological assay development, Tissue and Cell culture, Experimental design and execution, Molecular cloning strategies, Recombinant DNA, Protein amplification ,Protein purification, Microbial identification, SNP genotyping, Primer design, Sequenom platform
+Programming: Python, Linux/Unix,R, Git,SQL
+Informatics: WGS,WES, Targeted amplicon panels ,SNP Chip assays, Gene expression, Population genetics, Pipeline Development, Data visualization,HPC,WDL,TMB.
+Molecular Biology: PCR, qPCR, Sequencing, Biological assay development, Tissue and Cell culture, Experimental design and execution, Molecular cloning strategies, Recombinant DNA, Protein amplification ,Protein purification, Microbial identification, SNP genotyping, Primer design, Sequenom platform.
 
 Education
 Degree Major    Institution           Graduation Year
@@ -20,7 +20,7 @@ B.S. in Molecular and Cellular Microbiology, Auburn University, Auburn, AL, 2015
 RELEVANT EXPERIENCE
 
 PENN MEDICINE, UNIVERSITY OF PENNSYLVANIA HEALTH SYSTEM             2019 – PRESENT
-Bioinformatics specialist: Center for personalized diagnosis
+Bioinformatics specialist: Center for Personalized Diagnosis
 
 
 AUBURN UNIVERSITY, AUBURN, AL          2012 – 2018
@@ -56,13 +56,14 @@ Stevison LS, S Sefick, C Rushton, and RM Graze. 2017.
 Invited Review, Recombination rate plasticity: revealing mechanisms by design. Philosophical Transactions B. Themed Issue: "Evolutionary causes and consequences of recombination rate variation in sexual organisms" 
 In work- Target BMC genomic,  
 "Broad characterization of structural Variation and genetic differentiation in two hybridizing species of macaques"  
+In work - Calculation of Tumor Mutational Burden (TMB) Using a Small, Targeted Next-Generation Sequencing (NGS) Panel For Solid Tumor Samples Absent Matched Normal Samples
 
 
 
-Speaker, Boshel 2013,2014 
+Speaker: Boshel 2013,2014 
 Speaker: Poster, SEEPEG , 2017
-Speaker, Auburn university research week, 2017,2018
-Speaker,  Association for Molecular Pathology 2019 
+Speaker: Auburn university research week, 2017,2018
+Poster:  Association for Molecular Pathology 2019 
 
 STUDENTS MENTORED (2016-2018)
 •             3 Research experience for undergrads (REU) 
